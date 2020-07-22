@@ -13,6 +13,6 @@ I will talk on them if you ask me xD
 - 💬 Ask me ...
 <br>
 <p align="right">
- teanm <a href="steamcommunity.com/id/SteVasc/"><img src="https://img.shields.io/badge/Steam-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://steamcommunity.com/id/SunTzuKillOrDie/"><img src="https://img.shields.io/badge/Steam-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
   <h5 align="right">🎮 yeap a gamer too...</h5>
 </p>
