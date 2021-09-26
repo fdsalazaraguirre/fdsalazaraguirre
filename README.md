@@ -1,6 +1,6 @@
 👋&nbsp;&nbsp;Hola!
 
-I'm **Francisco Salazar**, a Full Stack Developer who lives in Merida Yucatan, Mexico.
+I'm **Francisco Salazar**, a Full Stack Developer who lives in Fredericton New Brunswick, Canada.
 
 Always Playing, Testing, Building and Learning new technologies. The stack to use needs to be the right tool for the job and not the hammer you know.
 
