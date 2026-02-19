@@ -15,9 +15,6 @@ For Personal Projects
 </p>
 📶 Stats:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fdsalazaraguirre&theme=dracula&layout=compact)](https://github.com/fdsalazaraguirre/github-readme-stats)
-
-![visitors](https://profile-counter.glitch.me/fdsalazaraguirre/count.svg)
 
 <p align="right">
   <a href="https://steamcommunity.com/id/SunTzuKillOrDie/"><img src="https://img.shields.io/badge/Steam-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
